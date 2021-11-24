@@ -1,0 +1,211 @@
+{
+	"item.cd_1" : {
+		"category": "item",
+		"subtitle": "item.cd_1.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/aaa",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_2" : {
+		"category": "item",
+		"subtitle": "item.cd_2.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/amonhen",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_3" : {
+		"category": "item",
+		"subtitle": "item.cd_3.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/chouzetsudynamic",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_4" : {
+		"category": "item",
+		"subtitle": "item.cd_4.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/edgeofnight",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_5" : {
+		"category": "item",
+		"subtitle": "item.cd_5.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/flyingnimbus",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_6" : {
+		"category": "item",
+		"subtitle": "item.cd_6.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/gas",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_7" : {
+		"category": "item",
+		"subtitle": "item.cd_7.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/goblinbridge",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_8" : {
+		"category": "item",
+		"subtitle": "item.cd_8.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/grog",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_9" : {
+		"category": "item",
+		"subtitle": "item.cd_9.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/ladbroke",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_10" : {
+		"category": "item",
+		"subtitle": "item.cd_10.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/never",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_11" : {
+		"category": "item",
+		"subtitle": "item.cd_11.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/oceanman",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_12" : {
+		"category": "item",
+		"subtitle": "item.cd_12.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/riders",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_13" : {
+		"category": "item",
+		"subtitle": "item.cd_13.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/stereo",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_14" : {
+		"category": "item",
+		"subtitle": "item.cd_14.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/thefunny",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_15" : {
+		"category": "item",
+		"subtitle": "item.cd_15.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/theshire",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_16" : {
+		"category": "item",
+		"subtitle": "item.cd_16.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/timechamber",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_17" : {
+		"category": "item",
+		"subtitle": "item.cd_17.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/ultimatebattle",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_18" : {
+		"category": "item",
+		"subtitle": "item.cd_18.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/ultradripstinct",
+				"stream": true
+			}
+		]
+	},
+	
+	"item.cd_19" : {
+		"category": "item",
+		"subtitle": "item.cd_19.sub",
+		"sounds": [
+			{
+				"name": "garousomesworld2:item/weathertop",
+				"stream": true
+			}
+		]
+	}
+	
+}
