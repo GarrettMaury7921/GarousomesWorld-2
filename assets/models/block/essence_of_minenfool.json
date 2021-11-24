@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "garousomesworld2:blocks/essence_of_minenfool"
+	}
+}
