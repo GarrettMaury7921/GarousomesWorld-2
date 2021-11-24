@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:ethan_scrap"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:ethaningot",
+        "count": 1
+    }
+}

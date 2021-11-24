@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gg",
+        "EG",
+        "/ "
+    ],
+    "key": {
+        "g": {
+            "item": "garousomesworld2:garrett_block"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "G": {
+            "item": "garousomesworld2:ultimateblock"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:ultimateaxe",
+        "count": 1
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:marvel_block"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:isbetterthanblock",
+        "count": 9
+    }
+}

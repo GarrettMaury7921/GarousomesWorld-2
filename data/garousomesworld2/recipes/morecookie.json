@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " gg",
+        "   "
+    ],
+    "key": {
+        "g": {
+            "item": "garousomesworld2:ethaningot"
+        }
+    },
+    "result": {
+        "item": "minecraft:cookie",
+        "count": 1
+    }
+}

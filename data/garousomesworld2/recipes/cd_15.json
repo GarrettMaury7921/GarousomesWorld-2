@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O#",
+        "O C",
+        "GAD"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:dc_block"
+        },
+        "O": {
+            "item": "minecraft:oak_sapling"
+        },
+        "C": {
+            "item": "minecraft:coarse_dirt"
+        },
+        "G": {
+            "item": "minecraft:grass_block"
+        },
+        "A": {
+            "item": "minecraft:acacia_sapling"
+        },
+        "D": {
+            "item": "minecraft:dirt"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:cd_15",
+        "count": 1
+    }
+}

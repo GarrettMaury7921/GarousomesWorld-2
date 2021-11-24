@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "garousomesworld2:essence_of_danny"
+    },
+    "result": "garousomesworld2:dannyingot",
+    "experience": 1.0,
+    "cookingtime": 5
+}

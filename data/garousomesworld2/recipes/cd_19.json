@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#M#",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:ethaningot"
+        },
+        "M": {
+        	"item": "garousomesworld2:marvel_block"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:cd_19",
+        "count": 1
+    }
+}

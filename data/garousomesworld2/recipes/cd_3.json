@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "O O",
+        "#O#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:yellow_terracotta"
+        },
+        "D": {
+            "item": "garousomesworld2:garrettingot"
+        },
+        "O": {
+            "item": "minecraft:orange_concrete"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:cd_3",
+        "count": 1
+    }
+}

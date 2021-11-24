@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "DEg",
+        "PPP"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:dannyingot"
+        },
+        "S": {
+            "item": "garousomesworld2:matthewingot"
+        },
+        "D": {
+            "item": "garousomesworld2:dc_block"
+        },
+        "E": {
+            "item": "minecraft:iron_block"
+        },
+        "g": {
+            "item": "garousomesworld2:minenfooldrop"
+        },
+        "P": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:garrettingot",
+        "count": 1
+    }
+}

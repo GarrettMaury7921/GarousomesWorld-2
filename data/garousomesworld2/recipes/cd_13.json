@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g#",
+        "S E",
+        "TVT"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:yellow_wool"
+        },
+        "g": {
+            "item": "garousomesworld2:garrettingot"
+        },
+        "S": {
+            "item": "minecraft:shield"
+        },
+        "E": {
+            "item": "minecraft:end_crystal"
+        },
+        "T": {
+            "item": "minecraft:tnt"
+        },
+        "V": {
+            "item": "minecraft:totem_of_undying"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:cd_13",
+        "count": 1
+    }
+}

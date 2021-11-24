@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#DC",
+        "O O",
+        "OOO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wooden_sword"
+        },
+        "D": {
+            "item": "garousomesworld2:ethaningot"
+        },
+        "C": {
+            "item": "minecraft:cobweb"
+        },
+        "O": {
+            "item": "minecraft:oak_planks"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:cd_7",
+        "count": 1
+    }
+}

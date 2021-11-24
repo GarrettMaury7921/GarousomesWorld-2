@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g#",
+        "G G"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:emu_block"
+        },
+        "g": {
+            "item": "garousomesworld2:ultimateblock"
+        },
+        "G": {
+            "item": "garousomesworld2:matthew_block"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:ultimatehelmet",
+        "count": 1
+    }
+}

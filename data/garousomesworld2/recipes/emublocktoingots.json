@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:emu_block"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:dannyingot",
+        "count": 9
+    }
+}

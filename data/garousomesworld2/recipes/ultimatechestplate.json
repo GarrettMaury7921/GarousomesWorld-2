@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "SRP",
+        "D#D"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:ultimateblock"
+        },
+        "S": {
+            "item": "garousomesworld2:matthew_block"
+        },
+        "R": {
+            "item": "garousomesworld2:marvel_block"
+        },
+        "P": {
+            "item": "garousomesworld2:emu_block"
+        },
+        "D": {
+            "item": "garousomesworld2:minenfool_block"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:ultimatechestplate",
+        "count": 1
+    }
+}

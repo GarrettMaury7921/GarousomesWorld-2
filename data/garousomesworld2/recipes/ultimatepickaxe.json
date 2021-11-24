@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        " E ",
+        " D "
+    ],
+    "key": {
+        "g": {
+            "item": "garousomesworld2:garrett_block"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "D": {
+            "item": "minecraft:diamond_sword"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:ultimatepickaxe",
+        "count": 1
+    }
+}

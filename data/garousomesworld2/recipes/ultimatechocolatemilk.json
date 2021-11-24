@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#SI",
+        "GOA",
+        "RWg"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:fermented_spider_eye"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        },
+        "I": {
+            "item": "garousomesworld2:chocolatemilk"
+        },
+        "G": {
+            "item": "garousomesworld2:minenfooldrop"
+        },
+        "O": {
+            "item": "garousomesworld2:superchocolatemilk"
+        },
+        "A": {
+            "item": "garousomesworld2:matthewingot"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "W": {
+            "item": "minecraft:obsidian"
+        },
+        "g": {
+            "item": "garousomesworld2:ethaningot"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:ultimatechocolatemilk",
+        "count": 1
+    }
+}

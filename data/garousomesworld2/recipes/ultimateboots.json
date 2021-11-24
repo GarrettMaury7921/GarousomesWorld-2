@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "g C",
+        "N O"
+    ],
+    "key": {
+        "g": {
+            "item": "garousomesworld2:isbetterthanblock"
+        },
+        "C": {
+            "item": "garousomesworld2:emu_block"
+        },
+        "N": {
+            "item": "garousomesworld2:matthew_block"
+        },
+        "O": {
+            "item": "garousomesworld2:garrett_block"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:ultimateboots",
+        "count": 1
+    }
+}

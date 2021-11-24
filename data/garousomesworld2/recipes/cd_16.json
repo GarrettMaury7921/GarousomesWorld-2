@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "C C",
+        "CCC"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:garrettingot"
+        },
+        "C": {
+            "item": "minecraft:clock"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:cd_16",
+        "count": 1
+    }
+}

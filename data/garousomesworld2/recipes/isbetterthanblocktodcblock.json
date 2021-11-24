@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:isbetterthanblock"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:dc_block",
+        "count": 9
+    }
+}

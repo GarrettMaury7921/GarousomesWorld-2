@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wooden_sword"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:cd_4",
+        "count": 1
+    }
+}

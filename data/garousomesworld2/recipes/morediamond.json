@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gEg",
+        "DMR",
+        "DgD"
+    ],
+    "key": {
+        "g": {
+            "item": "garousomesworld2:ethaningot"
+        },
+        "E": {
+            "item": "garousomesworld2:garrettingot"
+        },
+        "D": {
+            "item": "garousomesworld2:dannyingot"
+        },
+        "M": {
+            "item": "garousomesworld2:matthewingot"
+        },
+        "R": {
+            "item": "garousomesworld2:minenfooldrop"
+        }
+    },
+    "result": {
+        "item": "minecraft:diamond",
+        "count": 1
+    }
+}

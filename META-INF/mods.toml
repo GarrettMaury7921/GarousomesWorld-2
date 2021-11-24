@@ -1,0 +1,29 @@
+modLoader="javafml" #mandatory
+loaderVersion="[36,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="All rights reserved"
+
+[[mods]] #mandatory
+modId="garousomesworld2" #mandatory
+version="1.0" #mandatory
+displayName="Garousome's World 2" #mandatory
+logoFile="bigrat.png" #optional
+credits="Everything - Garrett" #optional
+authors="Garousome" #optional
+description='''
+Mostly a port of Garousome's World from 1.7.10 to 1.16.5! Some new stuff has been added as well.
+The Cookie Monster has a real name. It's sid.
+'''
+
+[[dependencies.garousomesworld2]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[36,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.garousomesworld2]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

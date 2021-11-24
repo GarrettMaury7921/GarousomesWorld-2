@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "OSO",
+        "D#D"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:emu_block"
+        },
+        "P": {
+            "item": "garousomesworld2:garrett_block"
+        },
+        "O": {
+            "item": "garousomesworld2:matthew_block"
+        },
+        "S": {
+            "item": "garousomesworld2:marvel_block"
+        },
+        "D": {
+            "item": "garousomesworld2:minenfool_block"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:ultimateblock",
+        "count": 1
+    }
+}

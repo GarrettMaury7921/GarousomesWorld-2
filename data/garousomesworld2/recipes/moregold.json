@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:matthewingot"
+        },
+        "E": {
+            "item": "garousomesworld2:emu_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:gold_block",
+        "count": 3
+    }
+}

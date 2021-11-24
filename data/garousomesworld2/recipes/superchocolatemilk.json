@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#M#",
+        "GSG",
+        "GGG"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:dc_block"
+        },
+        "M": {
+            "item": "minecraft:milk_bucket"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "S": {
+            "item": "garousomesworld2:chocolatemilk"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:superchocolatemilk",
+        "count": 1
+    }
+}

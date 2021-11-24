@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "C C",
+        "ggg"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:emu_block"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "C": {
+            "item": "garousomesworld2:matthew_block"
+        },
+        "g": {
+            "item": "garousomesworld2:garrettingot"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:cd_17",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g#",
+        "g g",
+        "#g#"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:matthewingot"
+        },
+        "g": {
+            "item": "garousomesworld2:minenfooldrop"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:cd_8",
+        "count": 1
+    }
+}

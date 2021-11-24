@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "garousomesworld2:essence_of_matthew"
+    },
+    "result": "garousomesworld2:matthewingot",
+    "experience": 1.5,
+    "cookingtime": 200
+}

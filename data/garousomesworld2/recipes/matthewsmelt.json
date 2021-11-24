@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "garousomesworld2:essence_of_matthew"
+    },
+    "result": "garousomesworld2:matthewingot",
+    "experience": 10.5,
+    "cookingtime": 2000
+}

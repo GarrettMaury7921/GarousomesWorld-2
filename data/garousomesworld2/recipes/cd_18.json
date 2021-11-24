@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "n n",
+        "nGn"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:marvel_block"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "G": {
+            "item": "garousomesworld2:ultimateblock"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:cd_18",
+        "count": 1
+    }
+}

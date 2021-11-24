@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sunflower"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:cd_5",
+        "count": 1
+    }
+}

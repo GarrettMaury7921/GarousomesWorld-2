@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "ggg",
+        "ggg"
+    ],
+    "key": {
+        "g": {
+            "item": "garousomesworld2:matthewingot"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:matthew_block",
+        "count": 1
+    }
+}

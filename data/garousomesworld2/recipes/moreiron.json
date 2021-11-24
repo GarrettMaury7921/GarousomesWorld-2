@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#MD"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:dannyingot"
+        },
+        "M": {
+            "item": "garousomesworld2:matthewingot"
+        },
+        "D": {
+            "item": "garousomesworld2:minenfooldrop"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_ingot",
+        "count": 6
+    }
+}

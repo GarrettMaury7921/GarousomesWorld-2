@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#gz",
+        "T W",
+        "WWW"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:dannyingot"
+        },
+        "g": {
+            "item": "garousomesworld2:garrettingot"
+        },
+        "z": {
+            "item": "garousomesworld2:minenfooldrop"
+        },
+        "T": {
+            "item": "garousomesworld2:matthewingot"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:cd_12",
+        "count": 1
+    }
+}

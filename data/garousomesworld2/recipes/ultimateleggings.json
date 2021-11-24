@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "g g",
+        "N g"
+    ],
+    "key": {
+        "#": {
+            "item": "garousomesworld2:marvel_block"
+        },
+        "R": {
+            "item": "garousomesworld2:garrett_block"
+        },
+        "g": {
+            "item": "garousomesworld2:minenfool_block"
+        },
+        "N": {
+            "item": "minecraft:netherite_block"
+        }
+    },
+    "result": {
+        "item": "garousomesworld2:ultimateleggings",
+        "count": 1
+    }
+}
