@@ -1,0 +1,121 @@
+{
+	//Items
+	"item.garousomesworld2.ethan_scrap": "Ethan Scrap",
+	"item.garousomesworld2.ethaningot": "Ethan Ingot",
+	"item.garousomesworld2.dannyingot": "Danny Ingot",
+	"item.garousomesworld2.garrettingot": "Garrett Ingot",
+	"item.garousomesworld2.matthewingot": "Matthew Ingot",
+	"item.garousomesworld2.minenfooldrop": "MineNFool Drop",
+	"item.garousomesworld2.ultimatepickaxe": "Ultimate Pickaxe",
+	"item.garousomesworld2.ultimatesword": "Ultimate Sword",
+	"item.garousomesworld2.ultimateaxe": "Ultimate Axe",
+	"item.garousomesworld2.ultimateshovel": "Ultimate Shovel",
+	"item.garousomesworld2.ultimatehoe": "Ultimate Hoe",
+	
+	//Armor
+	"item.garousomesworld2.ultimatehelmet": "Ultimate Helmet",
+	"item.garousomesworld2.ultimatechestplate": "Ultimate Chestplate",
+	"item.garousomesworld2.ultimateleggings": "Ultimate Leggings",
+	"item.garousomesworld2.ultimateboots": "Ultimate Boots",
+	
+	//Food
+	"item.garousomesworld2.chocolatemilk": "Chocolate Milk",
+	"item.garousomesworld2.superchocolatemilk": "Super Chocolate Milk",
+	"item.garousomesworld2.ultimatechocolatemilk": "Ultimate Chocolate Milk",
+	
+	//Blocks
+	"block.garousomesworld2.dc_block": "DC Block",
+	"block.garousomesworld2.isbetterthanblock": "Is Better Than Block",
+	"block.garousomesworld2.marvel_block": "Marvel Block",
+	"block.garousomesworld2.ultimateblock": "Ultimate Block",
+	"block.garousomesworld2.minenfool_block": "MineNFool Block",
+	"block.garousomesworld2.garrett_block": "Garrett Block",
+	"block.garousomesworld2.emu_block": "Emu Block",
+	"block.garousomesworld2.matthew_block": "Matthew Block",
+	"block.garousomesworld2.essence_of_ethan": "Essence of Ethan",
+	"block.garousomesworld2.essence_of_danny": "Essence of Danny",
+	"block.garousomesworld2.essence_of_garrett": "Essence of Garrett",
+	"block.garousomesworld2.essence_of_matthew": "Essence of Matthew",
+	"block.garousomesworld2.essence_of_minenfool": "Essence of MineNFool",
+	
+	//Music Discs
+		//1
+	"item.garousomesworld2.cd_1": "Music Disc",
+	"item.cd_1.sub": "Really Annoying Music",
+	"item.garousomesworld2.cd_1.desc": "???",
+		//2
+	"item.garousomesworld2.cd_2": "Music Disc",
+	"item.cd_2.sub": "Goblin Music",
+	"item.garousomesworld2.cd_2.desc": "AmonHen (Ask Ethan)",
+		//3
+	"item.garousomesworld2.cd_3": "Music Disc",
+	"item.cd_3.sub": "DBS Opening BGM",
+	"item.garousomesworld2.cd_3.desc": "Chouzetsu Dynamic Lofi",
+		//4
+	"item.garousomesworld2.cd_4": "Music Disc",
+	"item.cd_4.sub": "Goblin Music",
+	"item.garousomesworld2.cd_4.desc": "Edge of Night (Ask Ethan)",
+		//5
+	"item.garousomesworld2.cd_5": "Music Disc",
+	"item.cd_5.sub": "DBZ Music",
+	"item.garousomesworld2.cd_5.desc": "Flying Nimbus Lofi",
+		//6
+	"item.garousomesworld2.cd_6": "Music Disc",
+	"item.cd_6.sub": "GAS GAS GAS",
+	"item.garousomesworld2.cd_6.desc": "Gas Gas Gas",
+		//7
+	"item.garousomesworld2.cd_7": "Music Disc",
+	"item.cd_7.sub": "Goblin Music",
+	"item.garousomesworld2.cd_7.desc": "Goblin Bridge (Ask Ethan)",
+		//8
+	"item.garousomesworld2.cd_8": "Music Disc",
+	"item.cd_8.sub": "Yar har!!!",
+	"item.garousomesworld2.cd_8.desc": "All For Me Grog (Ask Matthew)",
+		//9
+	"item.garousomesworld2.cd_9": "Music Disc",
+	"item.cd_9.sub": "Yuh Yuh Yuh!",
+	"item.garousomesworld2.cd_9.desc": "AJ Tracey - Ladbroke Grove",
+		//10
+	"item.garousomesworld2.cd_10": "Music Disc",
+	"item.cd_10.sub": "Meme Music",
+	"item.garousomesworld2.cd_10.desc": "Naughty Sounds?....",
+		//11
+	"item.garousomesworld2.cd_11": "Music Disc",
+	"item.cd_11.sub": "OCEAN MAN!!",
+	"item.garousomesworld2.cd_11.desc": "Ocean Man",
+		//12
+	"item.garousomesworld2.cd_12": "Music Disc",
+	"item.cd_12.sub": "Riders On The Storm...",
+	"item.garousomesworld2.cd_12.desc": "Riders On The Storm NFS Remix With Snoop Dogg",
+		//13
+	"item.garousomesworld2.cd_13": "Music Disc",
+	"item.cd_13.sub": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+	"item.garousomesworld2.cd_13.desc": "Stereo Sayan 3D (It's Saiyan!!)",
+		//14
+	"item.garousomesworld2.cd_14": "Music Disc",
+	"item.cd_14.sub": "Chicken Song Noises",
+	"item.garousomesworld2.cd_14.desc": "The Funny",
+		//15
+	"item.garousomesworld2.cd_15": "Music Disc",
+	"item.cd_15.sub": "Goblin Music",
+	"item.garousomesworld2.cd_15.desc": "The Shire (Ask Ethan)",
+		//16
+	"item.garousomesworld2.cd_16": "Music Disc",
+	"item.cd_16.sub": "DBZ Music",
+	"item.garousomesworld2.cd_16.desc": "The Hyperbolic Time Chamber",
+		//17
+	"item.garousomesworld2.cd_17": "Music Disc",
+	"item.cd_17.sub": "DBS Music",
+	"item.garousomesworld2.cd_17.desc": "Ultimate Battle - DBS",
+		//18
+	"item.garousomesworld2.cd_18": "Music Disc",
+	"item.cd_18.sub": "The Best Music You've Ever Heard",
+	"item.garousomesworld2.cd_18.desc": "UltraDripstinct",
+		//19
+	"item.garousomesworld2.cd_19": "Music Disc",
+	"item.cd_19.sub": "Goblin Music",
+	"item.garousomesworld2.cd_19.desc": "Weathertop (Ask Ethan)",
+	
+	//Creative Tabs
+	"itemGroup.garousomesworld2": "Garousome's World 2!"
+}
